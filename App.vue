@@ -1,23 +1,5 @@
 <template>
   <div id="app">
-  	<!--<div class="top">
-  		<div class="time"><img src="./assets/img/考试_01.jpg" alt="" /></div>
-  		<div class="head">
-  			<span class="licon"><img src="./assets/img/考试_04.jpg" alt="" /></span>
-  			<h1>小巷麻辣香锅（西三旗店）</h1>
-  			<span class="ricon"><img src="./assets/img/分享.jpg" alt="" /></span>
-  		</div>
-  		<div class="banner">
-  			<img class="big" src="./assets/img/考试_07.jpg" alt="" />
-  			<img  class="small" src="./assets/img/block.jpg" alt=""/>
-  		</div>
-  		<div class="title">
-  			<h2>小巷麻辣香锅（西三旗店）</h2>
-  			<h3>4.7  月售3407单   蜂鸟快送   约46分钟   距离3.4km</h3>
-  			<h4>欢迎光临，用餐高峰期请提前下单，谢谢</h4>
-  			<h5><span>满减</span> 满35减21 ，满66减30，满100减40 <i>4个优惠</i></h5>
-  		</div>
-  	</div>-->
   	<div class="nav">
   		<ul>
   			<li><router-link to='/food'>点餐</router-link></li>
